@@ -1,0 +1,16 @@
+.proyectos-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.proyecto {
+  text-align: center;
+}
+
+.proyecto img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
